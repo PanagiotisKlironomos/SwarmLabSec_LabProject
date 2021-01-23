@@ -20,8 +20,9 @@
 
   - **../install/usr/share/swarmlab.io/sec/swarmlab-sec login**
   - Εναλλακτικά αν γίνει clone το τρέχον github project στον κατάλογο **~/Asfaleia\_Diktiwn/swarmlab-sec/LabProject/project** τότε μπορεί να γίνει login χρησιμοποιώντας το login script από τον αντίστοιχο κατάλογο. Δηλαδή με τις εντολές
-  **cd ~/Asfaleia\_Diktiwn/swarmlab-sec/LabProject/project/Login\_Scripts**
-  **./2masterLogin.sh**
+    - **cd ~/Asfaleia\_Diktiwn/swarmlab-sec/LabProject/project/Login\_Scripts**
+    - **./2masterLogin.sh**
+   
 
 - Login σε worker κόμβο
 
