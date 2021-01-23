@@ -1,3 +1,10 @@
+**Τα βήματα δημιουργίας του VPN εδώ:**
+
+[http://docs.swarmlab.io/SwarmLab-HowTos/labs/sec/ex-5\_iptables.adoc.html](http://docs.swarmlab.io/SwarmLab-HowTos/labs/sec/ex-5_iptables.adoc.html)
+
+**Όλα τα παραπάνω scriptακια τρέχουν εκτός του swarm στο host μηχάνημα που έχει εγκατεστημένο το docker**
+
+
 Create-vpn 
 
 
