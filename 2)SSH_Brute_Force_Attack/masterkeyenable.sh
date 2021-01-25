@@ -7,7 +7,7 @@ ssh-keygen -t rsa
 ssh-copy-id docker@$worker1IP
 ssh docker@$worker1IP
 bash
-sudo cp /project/sshdconfrsa /etc/ssh/sshd_config 
+sudo cp /project/2)SSH_Brute_Force_Attack/sshdconfrsa /etc/ssh/sshd_config 
 sudo service ssh restart
 exit
 exit
